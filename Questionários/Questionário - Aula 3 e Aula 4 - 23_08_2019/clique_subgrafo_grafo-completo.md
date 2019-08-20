@@ -1,6 +1,6 @@
 Dados os três grafos, é correto afirmar que:
 
-<img src="../imgs/aula3-5.png" title="Grafo G" />
+<img src="../imgs/aula3-5.png?raw=true" title="Grafo G" />
 
 Escolha uma ou mais:
 
