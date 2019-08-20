@@ -6,10 +6,10 @@ Dados os três grafos, é correto afirmar que:
 
 Escolha uma ou mais:
 
-() a. O grafo G" é um clique minimal de G
+( ) a. O grafo G" é um clique minimal de G
 
-() b. O grafo G' é um subgrafo
+( ) b. O grafo G' é um subgrafo
 
-() c. O grafo G é um grafo completo
+( ) c. O grafo G é um grafo completo
 
-() d. O grafo G' é um clique maximal de G
+( ) d. O grafo G' é um clique maximal de G
