@@ -11,7 +11,7 @@ Dados os três grafos, é correto afirmar que:
  </div>
 
 <div align="center">
-Grafo G                                Grafo G'            Grafo G"
+                  Grafo G                                Grafo G'                                 Grafo G"
 </div>
 
 Escolha uma ou mais:
