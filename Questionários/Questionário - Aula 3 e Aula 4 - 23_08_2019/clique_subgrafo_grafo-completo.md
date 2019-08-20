@@ -1,9 +1,6 @@
 Dados os três grafos, é correto afirmar que:
 
-<img src="../imgs/aula3-5.png" alt="Grafo G" />
-![Grafo G](../imgs/aula3-5.png)
-![Grafo G"](../imgs/aula3-6.png)
-![Grafo G'](../imgs/aula3-7.png)
+<img src="../imgs/aula3-5.png" title="Grafo G" />
 
 Escolha uma ou mais:
 
